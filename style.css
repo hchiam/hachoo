@@ -1,3 +1,9 @@
 p {
-  background: lightblue;
+  background: #054dc1;
+  color: white;
+  font-family: tahoma, avenir, arial, tahoma;
+  padding: 5px;
+  margin: 0 auto;
+  width: 50%;
+  border-radius: 5px;
 }
